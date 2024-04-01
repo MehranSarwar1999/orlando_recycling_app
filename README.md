@@ -1,4 +1,4 @@
-# orlando_recycling_app
+# my_chat_app
 
 A new Flutter project.
 

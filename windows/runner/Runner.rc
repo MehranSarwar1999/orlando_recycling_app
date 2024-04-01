@@ -89,13 +89,13 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "com.fixed" "\0"
-            VALUE "FileDescription", "orlando_recycling_app" "\0"
+            VALUE "CompanyName", "com.example" "\0"
+            VALUE "FileDescription", "my_chat_app" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "orlando_recycling_app" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2024 com.fixed. All rights reserved." "\0"
-            VALUE "OriginalFilename", "orlando_recycling_app.exe" "\0"
-            VALUE "ProductName", "orlando_recycling_app" "\0"
+            VALUE "InternalName", "my_chat_app" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2024 com.example. All rights reserved." "\0"
+            VALUE "OriginalFilename", "my_chat_app.exe" "\0"
+            VALUE "ProductName", "my_chat_app" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
